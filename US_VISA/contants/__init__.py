@@ -1,8 +1,8 @@
 import os
 from datetime import datetime
-DATABSE_NAME = "US"
+DATABASE_NAME = "US"
 COLLECTION_NAME = "visadata"
-MONGODB_URL_KEY = "mongodb+srv://ahmadzafar:mlopsusvisa@cluster0.lnbjt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+MONGODB_URL_KEY = "MONOGODB_URL"
 
 PIPELINE_NAME :str = "usvisa"
 
